@@ -1,0 +1,1 @@
+On constate que le pointeur SP ne commence pas par la valeur d'adresse plus grande de la memoire raml ( SP contient une adresse aleatoire de la memoire ). C'est pour cela que  le programme se comporte de maniere imprevue.  Il faut donc initialiser correctement le pointeur sp.
